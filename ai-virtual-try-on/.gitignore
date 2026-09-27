@@ -1,0 +1,12 @@
+# AI Virtual Try-On - Git Ignore
+.env
+.env.local
+uploads/*
+!uploads/.htaccess
+!uploads/index.html
+results/*
+!results/.htaccess
+!results/index.html
+*.log
+.DS_Store
+Thumbs.db

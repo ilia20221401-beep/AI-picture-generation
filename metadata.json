@@ -1,0 +1,6 @@
+{
+  "name": "AI Virtual Try-On",
+  "description": "Upload your photo and a clothing photo to create a realistic virtual try-on.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
